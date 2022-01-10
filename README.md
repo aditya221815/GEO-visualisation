@@ -12,3 +12,14 @@ At the end of the laboratory work, we will visualize the dynamics of COVID-19 in
 
 # Read_csv() file from here:-
 https://ourworldindata.org/coronavirus?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkQuickLabsdatascienceinhealthcarebasicprognosticationandgeovisualization26633115-2021-01-01
+
+
+# GEO Visulation Representation
+
+![newplot](https://user-images.githubusercontent.com/97192100/148823528-bf1c2081-e054-4f25-97b2-823dcaabcf1f.png)
+
+![newplot (2)](https://user-images.githubusercontent.com/97192100/148823721-a864682f-b344-4ab0-896a-2fcc65eafa5e.png)
+
+![newplot (1)](https://user-images.githubusercontent.com/97192100/148823727-50cb2f4a-616b-4cfc-a168-62682f7689aa.png)
+
+![newplot](https://user-images.githubusercontent.com/97192100/148823728-d9ef9046-c1ad-4c1e-8a1c-127e66357f12.png)
